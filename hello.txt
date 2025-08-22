@@ -1,6 +1,6 @@
 Hello Git!
 second line
-this is conflict-branch
+This line is from master branch
 this is mistake line
 This is from the feature-hello branch.
 new line for the feature-hello branch.
